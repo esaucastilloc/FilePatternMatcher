@@ -6,7 +6,7 @@ The FilePatternMatcher is a java program that allows to find patterns in files u
 Download
 ---------
 
-To download the source code please visit the following link:
+To download the source code please visit the following link: https://github.com/esaucastilloc/FilePatternMatcher
 
 
 Requirements
