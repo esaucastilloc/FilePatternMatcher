@@ -11,7 +11,7 @@
 	<description>Files Pattern Matcher program</description>
 
 	<properties>
-		<project.java.version>1.6</project.java.version>
+		<project.java.version>1.7</project.java.version>
 	</properties>
 
 	<dependencies>
