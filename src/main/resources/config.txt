@@ -1,0 +1,2 @@
+file=C:\\Users\\eecc\\Downloads\\test
+regex=(.)+
